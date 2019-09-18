@@ -1,0 +1,7 @@
+C:\Users\Linus\20190913\Uppgift 3\Uppgift 3\Uppgift 3\bin\Debug\Uppgift 3.exe.config
+C:\Users\Linus\20190913\Uppgift 3\Uppgift 3\Uppgift 3\bin\Debug\Uppgift 3.exe
+C:\Users\Linus\20190913\Uppgift 3\Uppgift 3\Uppgift 3\bin\Debug\Uppgift 3.pdb
+C:\Users\Linus\20190913\Uppgift 3\Uppgift 3\Uppgift 3\obj\Debug\Uppgift 3.csprojAssemblyReference.cache
+C:\Users\Linus\20190913\Uppgift 3\Uppgift 3\Uppgift 3\obj\Debug\Uppgift 3.csproj.CoreCompileInputs.cache
+C:\Users\Linus\20190913\Uppgift 3\Uppgift 3\Uppgift 3\obj\Debug\Uppgift 3.exe
+C:\Users\Linus\20190913\Uppgift 3\Uppgift 3\Uppgift 3\obj\Debug\Uppgift 3.pdb
